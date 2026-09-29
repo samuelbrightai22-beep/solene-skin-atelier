@@ -166,6 +166,9 @@ export function Footer() {
         <p className="mt-8 text-[0.65rem] uppercase tracking-[0.22em] text-background/40 text-center">
           Made slowly, in Portland · Cold-pressed in our own atelier
         </p>
+        <p className="mt-2 text-[0.6rem] tracking-[0.1em] text-background/30 text-center">
+          Photography courtesy of Pexels · Hair &amp; skin by our atelier
+        </p>
       </div>
     </footer>
   );

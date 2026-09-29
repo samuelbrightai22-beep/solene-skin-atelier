@@ -1,0 +1,58 @@
+{
+  "hero.png": {
+    "pexels_id": "18161061",
+    "source_url": "https://www.pexels.com/photo/18161061/",
+    "query_used": "luxury spa treatment room",
+    "file_size_bytes": 816214,
+    "note": "Picked from top 5 by file size, VLM check skipped (rate-limited)"
+  },
+  "treatment-facial.png": {
+    "pexels_id": "12115040",
+    "source_url": "https://www.pexels.com/photo/12115040/",
+    "verification": "YES: esthetician in gloves applies white mask to relaxed client.",
+    "file_size_bytes": 61688
+  },
+  "treatment-led.png": {
+    "pexels_id": "7216285",
+    "source_url": "https://www.pexels.com/photo/7216285/",
+    "verification": "YES: Red LED facial mask on a woman at a spa.",
+    "file_size_bytes": 36928
+  },
+  "treatment-massage.png": {
+    "pexels_id": "9335967",
+    "source_url": "https://www.pexels.com/photo/9335967/",
+    "verification": "YES: esthetician's hands performing facial massage on relaxed client.",
+    "file_size_bytes": 86266
+  },
+  "interior.png": {
+    "pexels_id": "12277631",
+    "source_url": "https://www.pexels.com/photo/12277631/",
+    "verification": "YES: minimalist interior with leather chair, wood, and green plant.",
+    "file_size_bytes": 30206
+  },
+  "botanicals.png": {
+    "pexels_id": "8101534",
+    "source_url": "https://www.pexels.com/photo/8101534/",
+    "verification": "YES: amber glass dropper bottle with botanical serum and soft shadows.",
+    "file_size_bytes": 70208
+  },
+  "specialist-1.png": {
+    "pexels_id": "7446657",
+    "source_url": "https://www.pexels.com/photo/7446657/",
+    "verification": "YES: esthetician in white uniform performing facial in clean spa.",
+    "file_size_bytes": 117624
+  },
+  "specialist-2.png": {
+    "pexels_id": "32428850",
+    "source_url": "https://www.pexels.com/photo/32428850/",
+    "verification": "YES: Professional female doctor in white lab coat with confident expression.",
+    "file_size_bytes": 114292
+  },
+  "specialist-3.png": {
+    "pexels_id": "6129444",
+    "source_url": "https://www.pexels.com/photo/6129444/",
+    "verification": "YES: well-groomed bearded man in white medical coat with stethoscope, sitting in consultation setting",
+    "file_size_bytes": 106859,
+    "note": "VLM verified suitable after multiple query attempts (man portrait suit, man barber, male doctor)"
+  }
+}
